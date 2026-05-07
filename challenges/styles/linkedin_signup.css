@@ -1,0 +1,28 @@
+p{
+    font-family: "Arial";
+    margin-bottom: 0px;
+}
+
+.email{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.subtext{
+    margin-bottom: 5px;
+}
+
+.textbox{
+    width: 300px;
+    margin-bottom: 0px;
+}
+
+.agree_button{
+    background-color: rgb(110, 110, 255);
+    color: white;
+    font-size: 15px;
+    border-radius: 30px;
+    border: none;
+    padding: 5px;
+    width: 320px;
+    height: 50px;
+}

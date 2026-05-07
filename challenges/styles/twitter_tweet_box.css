@@ -1,0 +1,36 @@
+p{
+    font-family: Arial;
+}
+
+.profile_pic{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+    vertical-align: middle;
+    object-fit: cover;
+    object-position: 0px;
+}
+
+.subtext{
+    font-size: 25px;
+    color: gray;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+.agree_button{
+    background-color: rgb(124, 124, 252);
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 50px;
+    padding: 2px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 200px;
+}

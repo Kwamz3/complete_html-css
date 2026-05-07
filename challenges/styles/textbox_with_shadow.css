@@ -1,0 +1,9 @@
+.textbox{
+    font-size: 20px;
+    width: 500px;
+    border-style: none;
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    box-shadow: 0.5px 0.5px 5px rgb(197, 197, 197);
+}
