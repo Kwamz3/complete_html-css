@@ -1,15 +1,20 @@
 input{
+    font-family: "Calibri";
+    font-size: 20px;
+    font-weight: 500;
     border: none;
     border-radius: 20px;
-    width: 500px;
+    width: 700px;
+    height: 25px;
     box-shadow: 1px 2px 5px rgb(85, 85, 85, 0.3);
     padding: 10px;
     display: block;
-    margin-left: 25rem;
+    margin-left: 35rem;
 }
 
 img{
     display: block;
     align-items: center;
-    margin-left: 35rem;
+    margin-left: 40rem;
+    width: 500px;
 }
