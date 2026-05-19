@@ -1,0 +1,10 @@
+p{
+    width: 300px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+button{
+    display: inline-block;
+    vertical-align: middle;
+}

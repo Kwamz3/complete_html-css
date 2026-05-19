@@ -1,0 +1,18 @@
+h2{
+    font-family: monospace;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+
+p{
+    font-family: monospace;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 50;
+}
+
+#underline-black {
+    text-decoration: underline;
+}
