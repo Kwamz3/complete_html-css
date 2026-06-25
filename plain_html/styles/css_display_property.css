@@ -1,9 +1,33 @@
-img {
-    width: 500px;
-    display: block;
-    display: block;
+body{
+    font-family: 'Times New Roman', Times, serif;
 }
 
-input{
-    display: block;
+p {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+input { 
+  display: block;
+}
+
+img{
+    width: 300px;
+    display: inline-block;
+}
+
+#outer-div-1 {
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-right: 15px;
+}
+
+#outer-div-2 {
+  display: inline-block;
+}
+
+#youtube-name {
+  margin-top: 20px;
+  margin-bottom: 5px;
 }
