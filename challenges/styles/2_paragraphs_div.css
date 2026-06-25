@@ -1,0 +1,27 @@
+body{
+    font-family: "calibri";
+    font-size: 25px;
+    font-weight: 700;
+}
+
+#outer-div-1{
+    width: 380px;
+    height: 20;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+#outer-div-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#second-text{
+    width: 330px;
+    font-size: 18px;
+    font-weight: 100;
+    color: rgb(187, 187, 187);
+}
