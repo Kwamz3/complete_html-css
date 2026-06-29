@@ -1,0 +1,17 @@
+body{
+    font-family: "Calibri";
+}
+
+#outer-div-1{
+    border: 2px solid black;
+    width: 480px;
+    height: 80px;
+    padding: 20px;
+}
+
+#outer-div-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
