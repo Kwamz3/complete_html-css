@@ -1,0 +1,53 @@
+body {
+  font-family: "calibri";
+  font-size: 20px;
+}
+
+#outer-div-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#outer-div-1 {
+  display: inline-block;
+}
+
+#outer-div-2 {
+  display: flex;
+  align-items: center;
+  gap: 200px;
+  padding: 7px 20px;
+  border-radius: 10px;
+  box-shadow: 0.5px 0.5px 10px rgb(190, 190, 190);
+}
+
+#outer-div-3 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+img {
+  width: 70px;
+  height: 70px;
+  border-radius: 500px;
+  object-fit: cover;
+  object-position: 0;
+  display: inline-block;
+}
+
+#text-1 {
+  color: rgb(77, 77, 77);
+}
+
+button{
+    background-color: rgb(101, 186, 255);
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 70px;
+    border-radius: 25px;
+    box-shadow: 0.1px 0.1px 10px rgb(235, 235, 235);
+}
