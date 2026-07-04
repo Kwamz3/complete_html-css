@@ -16,7 +16,8 @@ p {
 }
 
 #outer-div-1 {
-  width: 500px;
+  width: 270px;
+  height: 400px;
   display: inline-block;
   /* border: 3px solid purple; */
 }
