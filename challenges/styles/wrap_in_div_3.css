@@ -57,8 +57,8 @@ p {
 #image-container-1 {
   width: 270px;
   border-radius: 2px;
-  /* border: 3px solid red; */
   box-shadow: 2px 2px 5px rgb(204, 204, 204);
+  /* border: 3px solid red; */
 }
 
 button {
