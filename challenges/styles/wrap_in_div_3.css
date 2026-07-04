@@ -7,6 +7,13 @@ body {
   font-weight: bold;
 }
 
+#master-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
 p {
   margin: 0px;
 }
@@ -36,7 +43,7 @@ p {
   /* border: 3px solid blue; */
 }
 
-#img-main-1{
+#img-main-1 {
   display: inline-block;
   width: 270px;
   height: 300px;
@@ -45,7 +52,7 @@ p {
   /* border: 3px solid blue; */
 }
 
-#img-main-2{
+#img-main-2 {
   display: inline-block;
   width: 270px;
   height: 300px;
