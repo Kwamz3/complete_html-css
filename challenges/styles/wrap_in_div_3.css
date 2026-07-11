@@ -40,6 +40,7 @@ p {
   height: 300px;
   object-fit: cover;
   object-position: 0px;
+  border-radius: 3px 3px 30px 3px;
   /* border: 3px solid blue; */
 }
 
@@ -49,6 +50,7 @@ p {
   height: 300px;
   object-fit: cover;
   object-position: -20px;
+  border-radius: 3px 3px 30px 3px;
   /* border: 3px solid blue; */
 }
 
@@ -58,12 +60,13 @@ p {
   height: 300px;
   object-fit: cover;
   object-position: -260px;
+  border-radius: 3px 3px 30px 3px;
   /* border: 3px solid blue; */
 }
 
 #image-container-1 {
   width: 270px;
-  border-radius: 2px;
+  border-radius: 3px;
   box-shadow: 2px 2px 5px rgb(204, 204, 204);
   /* border: 3px solid red; */
 }
@@ -75,6 +78,16 @@ button {
   color: white;
   padding: 10px 12px;
   border-radius: 5px;
+  cursor: pointer;
+  transition: opacity 0.15s
+}
+
+button:hover{
+    opacity: 0.7;
+}
+
+button:active{
+    opacity: 0.3;
 }
 
 #text-div-1 {
