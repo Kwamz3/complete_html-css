@@ -1,0 +1,54 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+input { 
+  display: block;
+}
+
+img{
+    width: 300px;
+    display: inline-block;
+}
+
+#channel-pic{
+    width: 100%;
+}
+
+#outer-div-1 {
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-right: 15px;
+    /* background: red; */
+}
+
+#outer-div-2 {
+  display: inline-block;
+}
+
+#youtube-name {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+#channel-div{
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+}
+
+#info-div{
+    display: inline-block;
+    width: 200px;
+    /* background: blue; */
+}
+
+#title-p{
+    margin-top: 0px;
+}
