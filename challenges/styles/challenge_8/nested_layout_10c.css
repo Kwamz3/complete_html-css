@@ -1,0 +1,39 @@
+body{
+    font-family: "Calibri";
+}
+
+p{
+    margin: 0px 0px 1px 0px;
+}
+
+img{
+    width: 300px;
+    display: inline-block;
+}
+
+#heading-text-1{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#outer-div-2{
+    display: inline-block;
+    width: 300px;
+    margin-left: 20px;
+}
+
+#outer-div-3{
+    display: flex;
+    align-items: top;
+    margin-top: 20px;
+}
+
+#name-text-1{
+    margin-top: 30px;
+    color: rgb(66, 66, 66);
+    font-size: 17px;
+}
+
+#name-text-1 p{
+    margin-top: 10px;
+}
