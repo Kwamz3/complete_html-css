@@ -1,0 +1,35 @@
+#div-1 {
+  display: inline;
+}
+
+#div-2 {
+  display: inline;
+}
+
+input {
+  display: block;
+  font-size: 20px;
+}
+
+#channel {
+  margin-top: 30px;
+  border-radius: 100px;
+}
+
+#div-outer-1 {
+  display: block;
+}
+
+#div-inner-1 {
+  display: inline;
+  width: 500px;
+}
+
+#channel-div-1   {
+  display: block;
+  width: 100px;
+}
+
+#div-inner-2{
+    display: inline;
+}
