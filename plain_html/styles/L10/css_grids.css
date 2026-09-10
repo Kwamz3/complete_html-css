@@ -70,6 +70,8 @@ img{
     margin-top: 5px;
 }
 
-#div-outer-a1{
+#outer-div-2a{
     display: inline-block;
+    background: blue;
+    
 }
