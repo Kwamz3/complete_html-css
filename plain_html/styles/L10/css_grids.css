@@ -28,6 +28,13 @@ img{
     margin-right: 15px;
 }
 
+#outer-div-2{
+    display: inline-block;
+    width: 500px;
+    vertical-align: top;
+    margin-right: 15px;
+}
+
 #channel-div-1{
     display: inline-block;
     width: 70px;
@@ -37,6 +44,7 @@ img{
 #div-inner-2{
     display: inline-block;
     width: 310px;
+    margin-left: 10px;
 }
 
 #title-p{
@@ -49,4 +57,19 @@ img{
 #youtube-name{
     font-size: 14px;
     color: rgb(96, 96, 96);
+    margin-top: 5px;
+}
+
+#youtube-details{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 3px;
+}
+
+#div-inner-1{
+    margin-top: 5px;
+}
+
+#div-outer-a1{
+    display: inline-block;
 }
