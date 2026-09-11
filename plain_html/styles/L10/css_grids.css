@@ -1,75 +1,73 @@
-body{
-    font-family: "Roboto", Arial;
+body {
+  font-family: "Roboto", Arial;
 }
 
-p{
-    margin-top: 0px;
-    margin-bottom: 0px;
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
-input{
-    display: block;
+input {
+  display: block;
 }
 
-img{
-    width: 400px;
-    display: inline-block;
+.img {
+  width: 400px;
+  display: inline-block;
 }
 
-#channel-pic{
-    width: 100%;
-    border-radius: 50%;
+#channel-pic {
+  display: inline-block;
+  width: 50px;
+  border-radius: 50%;
 }
 
-#outer-div-1{
-    display: inline-block;
-    width: 500px;
-    vertical-align: top;
-    margin-right: 15px;
+#outer-div-1 {
+  display: inline-block;
+  width: 400px;
+  vertical-align: top;
+  background: red;
 }
 
-#outer-div-2{
-    display: inline-block;
-    width: 500px;
-    vertical-align: top;
-    margin-right: 15px;
+#outer-div-2 {
+  display: inline-block;
+  margin-left: 15px;
 }
 
-#channel-div-1{
-    display: inline-block;
-    width: 70px;
-    vertical-align: top;
+#channel-div {
+  background: gray;
 }
 
-#div-inner-2{
-    display: inline-block;
-    width: 310px;
-    margin-left: 10px;
+#channel-thumbnail-grid {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  margin-top: 5px;
 }
 
-#title-p{
-    margin-top: 0px;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 20px;
+#info-div {
+  background: gray;
 }
 
-#youtube-name{
-    font-size: 14px;
-    color: rgb(96, 96, 96);
-    margin-top: 5px;
+#youtube-name {
+  margin-top: 20px;
+  margin-bottom: 5px;
 }
 
-#youtube-details{
-    font-size: 14px;
-    color: rgb(96, 96, 96);
-    margin-top: 3px;
+#title-p {
+  margin-top: 0px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 20px;
 }
 
-#div-inner-1{
-    margin-top: 5px;
+#youtube-name {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 10px;
+  margin-bottom: 1px;
 }
 
-#outer-div-2a{
-    display: inline-block;
+#youtube-details {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
 }
